@@ -23,7 +23,7 @@ const Hero = () => {
 
           {/* WhatsApp CTA */}
           <a
-            href="https://wa.me/919999999999?text=Hello%20I%20want%20to%20discuss%20my%20project"
+            href="https://wa.me/919325702674?text=Hello%20Nexsoo%20Tech%20Media%2C%0AI%20am%20interested%20in%20your%20video%20and%20digital%-%20services.%0APlease%20connect%20with%20me."
             target="_blank"
             rel="noopener noreferrer"
             className="bg-accent px-8 py-3 rounded-full border border-gray-600 hover:border-white transition"

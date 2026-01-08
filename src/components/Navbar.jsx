@@ -9,7 +9,7 @@ const Navbar = () => {
      ${isActive ? "text-white" : "text-[#9CA3AF] hover:text-white"}`;
 
   const whatsappLink =
-    "https://wa.me/919999999999?text=Hello%20I%20want%20to%20book%20a%20call";
+    "https://wa.me/919325702674?text=Hello%20I%20want%20to%20book%20a%20call";
 
   return (
     <nav className="fixed top-0 w-full z-50 bg-[#0B0F0E]/80 backdrop-blur-md border-b border-white/5">
