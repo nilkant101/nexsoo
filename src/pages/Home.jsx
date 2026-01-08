@@ -7,6 +7,7 @@ import Stats from "../sections/Stats";
 import Services from "../sections/Services";
 import Process from "../sections/Process";
 import CTA from "../sections/CTA";
+import ClientsMarquee from "../sections/ClientsMarquee.jsx";
 
 const Home = ()=> {
   return (
@@ -24,6 +25,7 @@ const Home = ()=> {
         <Navbar />
         <Hero />
         <Stats />
+        <ClientsMarquee/>
         <Services />
         <Process />
         <CTA />

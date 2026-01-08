@@ -75,7 +75,7 @@ const Footer = () => {
             </h3>
             <ul className="space-y-2 text-sm text-[#9CA3AF]">
               <li>Email: hello@nexsoo.com</li>
-              <li>Phone: +91 XXXXX XXXXX</li>
+              <li>Phone: +91 9325702674</li>
               <li>India</li>
             </ul>
 
